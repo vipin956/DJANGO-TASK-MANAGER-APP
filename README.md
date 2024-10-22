@@ -21,7 +21,7 @@ A simple yet effective Task Manager application built using Django. This web app
 ## Installation:
 1. Clone the repository:
    bash
-   git clone https://github.com/yourusername/django-task-manager.git
+   git clone https://github.com/vipin956/DJANGO-TASK-MANAGER-APP.git
    
 2. Navigate to the project directory:
    bash
